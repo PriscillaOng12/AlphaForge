@@ -11,7 +11,6 @@ Features:
 - Bayesian shrinkage and Lasso regularization
 - Walk-forward out-of-sample testing
 - Comprehensive performance analytics
-
 """
 
 import numpy as np
